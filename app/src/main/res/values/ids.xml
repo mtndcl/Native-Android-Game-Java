@@ -1,0 +1,15 @@
+<resources>
+
+<string name="achievement_prime">CgkImrLn8IEfEAIQAw</string>
+<string name="achievement_really_bored">CgkImrLn8IEfEAIQBA</string>
+<string name="achievement_bored">CgkImrLn8IEfEAIQBQ</string>
+<string name="achievement_humble">CgkImrLn8IEfEAIQBg</string>
+<string name="achievement_arrogant">CgkImrLn8IEfEAIQBw</string>
+<string name="achievement_leet">CgkImrLn8IEfEAIQCA</string>
+<string name="achievement_trivial_victory">CgkImrLn8IEfEAIQCw</string>
+
+<string name="leaderboard_score_table">CgkImrLn8IEfEAIQAg</string>
+<string name="leaderboard_easy">CgkImrLn8IEfEAIQCQ</string>
+<string name="leaderboard_hard">CgkImrLn8IEfEAIQCg</string>
+
+</resources>

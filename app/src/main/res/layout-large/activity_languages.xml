@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_languages"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#EBEBEB"
+    tools:context="com.mockingbird.magiccolors.languages"
+    tools:ignore="ExtraText">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent"
+        android:layout_alignParentTop="true"
+        android:scrollbars="none"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="ObsoleteLayoutParam,ScrollViewSize,UselessParent"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:text="LANGUAGE"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+
+            android:id="@+id/languages"
+            tools:ignore="HardcodedText"
+            android:textAlignment="center"
+            android:gravity="center"
+
+            android:textSize="50sp"
+            android:textAllCaps="false"
+            android:textStyle="normal|bold"
+            android:textColor="?android:attr/colorBackgroundCacheHint"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <TextView
+            android:textAlignment="center"
+            android:onClick="english"
+            android:textSize="40sp"
+            android:focusable="true"
+            android:text="English"
+            android:layout_width="match_parent"
+            android:clickable="true"
+            android:gravity="center"
+
+            android:layout_height="55dp"
+            android:id="@+id/english"
+            tools:ignore="HardcodedText"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="Deutsch"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+
+            android:focusable="true"
+            android:id="@+id/Deutsch"        android:gravity="center"
+
+            tools:ignore="HardcodedText"
+            android:clickable="true"
+
+            android:textAlignment="center"
+            android:textSize="40sp"
+            tools:text="Deutsch"
+            android:onClick="deutsch"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="中文"
+            android:focusable="true"
+            android:clickable="true"
+
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/china"        android:gravity="center"
+
+            tools:ignore="HardcodedText"
+            android:textAlignment="center"
+            android:onClick="china"
+
+            android:textSize="40sp"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="Русский"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:onClick="russian"
+            android:focusable="true"
+            android:clickable="true"
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/russian"
+            tools:ignore="HardcodedText"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="Español"
+            android:onClick="spain"
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+
+            android:id="@+id/spain"
+            android:textAlignment="center"
+            android:focusable="true"
+            android:textSize="40sp"
+            tools:ignore="HardcodedText"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="日本語"
+            android:onClick="japan"
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/japan"
+            android:textAlignment="center"
+            android:focusable="true"
+            android:clickable="true"
+
+            android:textSize="40sp"
+            tools:ignore="HardcodedText"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="한국어"
+            android:onClick="korean"
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:focusable="true"
+            android:layout_height="55dp"
+            android:id="@+id/korean"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:clickable="true"
+
+            tools:ignore="HardcodedText"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="Türkçe"
+            android:onClick="turkce"
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:id="@+id/turkce"
+            android:textAlignment="center"
+            android:clickable="true"
+
+            android:focusable="true"
+            android:textSize="40sp"
+            tools:ignore="HardcodedText"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:text="العربية"
+            android:onClick="arabic"
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+
+            android:id="@+id/arabic"
+            android:textAlignment="center"
+            android:focusable="true"
+            android:textSize="40sp"
+            android:clickable="true"
+
+            tools:ignore="HardcodedText"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+    </ScrollView>>
+
+
+</RelativeLayout>

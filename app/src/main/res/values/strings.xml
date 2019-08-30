@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_id">1065656899866</string>
+    <string name="LEADERBOARD_ID">CgkImrLn8IEfEAIQAg</string>
+    <string name="app_name">Magic Colors</string>
+    <string name="signin_other_error">Error occurred</string>
+    <string name="signin_failure">Could not signed in</string>
+
+    //ENGLISH
+    <string name="gametext_ing">GAME</string>
+    <string name="gameviewtext_ing">When the balls are down, you can touch any ball in any position.
+        Whenever you touch a ball, you will receive 10 points, but the speed of the balls will increase. If you also want to get
+        more points and make the speed of the balls decrease, you must do combos. After pressing the bonus ball, it does not matter
+        Which ball touches, the combo will occur. If any ball reaches the end of the game screen, the game will end.
+    </string>
+    <string name="combotext_ing">COMBO</string>
+    <string name="comboviewtext_ing">Touch minimum 2 balls with the same color sequence</string>
+    <string name="bonustext_ing">BONUS</string>
+    <string name="bonustextview_ing"> Comes once in 15 moves and shift color</string>
+
+    //TURKISH
+    <string name="gametext_tr">OYUN</string>
+    <string name="gameviewtext_tr">Toplar aşağı doğru inerken istediğine basabilirsin. Her topa
+        basışta puan toplarsın ancak topların hızı da artar.Eğer daha fazla puan kazanmak ve aynı zamanda
+        hızın azalmasını istiyorsan combo yapmalısın.Ayrıca bonus topundan sonra herhangi bir topa bastığında combo olur.
+        Top ekranın sonuna varırsa oyun biter.
+    </string>
+    <string name="combotext_tr">KOMBO</string>
+    <string name="comboviewtext_tr"> Ard arda aynı renkte en az 2 topa basmak.</string>
+    <string name="bonustext_tr">BONUS</string>
+    <string name="bonustextview_tr">Her 15 basışta bir gelen ve renk değiştiren top.</string>
+
+    //CHİNA
+    <string name="gametext_ch">游戏</string>
+    <string name="gameviewtext_ch">
+当球下来时，你可以接触任何球
+        位置。每当你触摸一个球，你会得到10分，但球的速度增加。
+        如果你想获得更多的积分，还要降低速度，你应该组合。再次扣球后，
+        无论你碰到哪个组合都会发生。如果任何球到达屏幕游戏的结束将结束。
+    </string>
+    <string name="combotext_ch">二合一</string>
+    <string name="comboviewtext_ch">用相同的颜色顺序触摸最少2个球</string>
+    <string name="bonustext_ch">奖金</string>
+    <string name="bonustextview_ch">一次在15次移动和移动颜色</string>
+
+    //GERMANY
+    <string name="gametext_al">SPIEL</string>
+    <string name="gameviewtext_al">Wenn Bälle kommen, können Sie jeden Ball in jedem berühren
+        Position. Wenn du einen Ball berührst, bekommst du 10 Punkte, aber die Geschwindigkeit der Kugeln nimmt zu.
+        Wenn du mehr Punkte bekommen willst und auch die Geschwindigkeit verringern solltest du Combos machen. Auch nach dem Pressen Bonusball,
+        Egal welcher Ball Sie berühren Combo auftreten wird. Wenn irgendeine Kugel das Ende des Bildschirms erreicht, wird das Spiel vorbei sein.
+    </string>
+    <string name="combotext_al">COMBO</string>
+    <string name="comboviewtext_al">Berühre mindestens 2 Kugeln mit der gleichen Farbsequenz</string>
+    <string name="bonustext_al">BONUS</string>
+    <string name="bonustextview_al">Kommt einmal in 15 Züge und verschiebt Farbe</string>
+
+    //SPAİN
+    <string name="gametext_ıs">JUEGO</string>
+    <string name="gameviewtext_ıs"> Cuando las bolas están bajando, tú puedes tocar cualquier bola en cualquier posición
+        Siempre que toques una bola, recibirás 10 puntos, pero la velocidad de las bolas aumentará. Si también quieres conseguir
+        más puntos y hacer que la velocidad de las bolas disminuya, debes hacer combos. Tras presionar la bola de bonus, no importa
+        que bola toques, el combo ocurriráSi cualquier bola alcanza el final de la pantalla de juego, el juego acabará
+    </string>
+    <string name="combotext_ıs">COMBO</string>
+    <string name="comboviewtext_ıs"> Toca como mínimo 2 bolas con la misma secuencia de color</string>
+    <string name="bonustext_ıs">PRIMA</string>
+    <string name="bonustextview_ıs">Aparece uno cada 15 movimientos y cambia de color</string>
+
+
+    //JAPAN
+    <string name="gametext_jp">ゲーム</string>
+    <string name="gameviewtext_jp">ボールが降りてくると、あなたはどんなボールにも触れることができます
+        ポジション。あなたがボールに触れるたびにあなたは10ポイントを得るでしょうが、ボールのスピードは上がります。
+        より多くのポイントを獲得し、速度を落としたい場合は、コンボを作成する必要があります。ボーナスボールを押した後も、
+        どのボールをコンボに触れても問題は発生しません。ボールがスクリーンの終わりに達すると、ゲームは終了します。
+    </string>
+    <string name="combotext_jp">コンボ</string>
+    <string name="comboviewtext_jp">同じ色順の最低2つのボールをタッチする</string>
+    <string name="bonustext_jp">ボーナス</string>
+    <string name="bonustextview_jp">
+1回15回の移動で色が変わります</string>
+
+    //RUSSİAN
+    <string name="gametext_rs">ИГРА</string>
+    <string name="gameviewtext_rs">Когда будут падать шары , вы можете коснуться любого шара в любом положении.
+        Всякий раз, когда вы касаетесь мяча, вы получаете 10 очков, но скорость шаров будет  увеличиваться.
+        Если вы хотите получить больше очков, а также уменьшить скорость, вы должны сделать комбо.
+        Также после нажатия бонусного мяча, независимо от того, какого  вы коснетесь мяча, произойдет комбо.
+        Если какой-либо мяч достигнет конца экрана игра будет окончена.
+    </string>
+    <string name="combotext_rs">комбо</string>
+    <string name="comboviewtext_rs">необходимо коснуться минимум 2х шаров с одинаковым цветом</string>
+    <string name="bonustext_rs">БОНУС</string>
+    <string name="bonustextview_rs">
+Приходит один раз в 15 ходов.</string>
+
+    //KOREAN
+    <string name="gametext_kr">경기</string>
+    <string name="gameviewtext_kr">
+공이 내려 오면 어떤 공을 건드릴 수 있습니다.
+        위치. 당신이 공을 만질 때마다 당신은 10 점을 얻지 만 볼의 속도는 증가합니다.
+        더 많은 포인트를 얻고 속도를 줄이려면 콤보를 만들어야합니다. 또한 보너스 공을 누른 후,
+        콤보를 터치 한 공이 발생하더라도 상관 없습니다. 어떤 공이 화면 끝에 도달하면 게임은 종료됩니다.
+    </string>
+    <string name="combotext_kr">콤보</string>
+    <string name="comboviewtext_kr">
+동일한 색상 순서로 최소 2 개의 볼을 터치하십시오.</string>
+    <string name="bonustext_kr">보너스</string>
+    <string name="bonustextview_kr">
+1 회 15 회 이동 및 색상 이동</string>
+
+    //ARABIC
+    <string name="gametext_ar">لعبه</string>
+    <string name="gameviewtext_ar">للعبة هي ان
+        عند تحرك الطابتان الى الاسفل عليك بلمس ا
+        حداهما عندما تلمس الطابة سوف تاخد 10 نقاط ولكن سرعة الطابة سوف تزداد
+        عندما تصل الطابة نهاية الشاشة الللعبة تنتهي
+        . اذا اردت ان تاخد المزيد من النقاط وتخفيض السرعة  يجب عمل مجموعان </string>
+    <string name="combotext_ar">COMBO</string>
+    <string name="comboviewtext_ar">المجموعة لمس طابتين من نفس اللون</string>
+    <string name="bonustext_ar">علاوة</string>
+    <string name="bonustextview_ar">ويأتي مرة واحدة في 15 التحركات والتحول اللون</string>
+
+
+</resources>

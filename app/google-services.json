@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065656899866",
+    "firebase_url": "https://magic-colors-58835303.firebaseio.com",
+    "project_id": "magic-colors-58835303",
+    "storage_bucket": "magic-colors-58835303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065656899866:android:a76e5214c25826dd",
+        "android_client_info": {
+          "package_name": "com.mockingbird.magiccolors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065656899866-mjcki3c02gr726oi28o48kdatuf8glcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwp1UQcjXUR0WP4F29YIhaki2Y5casHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065656899866-mjcki3c02gr726oi28o48kdatuf8glcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
